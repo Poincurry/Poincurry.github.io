@@ -1,0 +1,27 @@
+
+.choiceimg {
+	display: inline-block;
+	margin-top: 5px;
+}
+
+.vertical-align {
+	display: table-cell;
+    vertical-align: middle;
+}
+
+#mainimg {
+	min-width: 1040px;
+	min-height: 532px;
+	background-color: #CCCCCC;
+}
+
+#canvas {
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	z-index: 5;
+}
+
+#bgright {
+	transform: scaleX(-1);
+}
