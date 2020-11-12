@@ -9,10 +9,17 @@
     vertical-align: middle;
 }
 
+.plusbackground {
+	background-color: #CCCCCC;
+}
+
+.horizontalline {
+	margin : 0px;
+}
+
 #mainimg {
 	min-width: 1040px;
 	min-height: 532px;
-	background-color: #CCCCCC;
 }
 
 #canvas {
