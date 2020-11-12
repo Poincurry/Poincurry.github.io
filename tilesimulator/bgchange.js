@@ -1,20 +1,20 @@
 let bg1 = ['','']
 bg1[0] = document.createElement('img');
 bg1[1] = document.createElement('img');
-bg1[0].src = './IB000050_01.png';
-bg1[1].src = './IB000050_01_inv.png';
+bg1[0].src = './tilesimulator/IB000050_01.png';
+bg1[1].src = './tilesimulator/IB000050_01_inv.png';
 
 let bg2 = ['','']
 bg2[0] = document.createElement('img');
 bg2[1] = document.createElement('img');
-bg2[0].src = './IB000062_01.png';
-bg2[1].src = './IB000062_01_inv.png';
+bg2[0].src = './tilesimulator/IB000062_01.png';
+bg2[1].src = './tilesimulator/IB000062_01_inv.png';
 
 let bg3 = ['','']
 bg3[0] = document.createElement('img');
 bg3[1] = document.createElement('img');
-bg3[0].src = './IB000076_01.png';
-bg3[1].src = './IB000076_01_inv.png';
+bg3[0].src = './tilesimulator/IB000076_01.png';
+bg3[1].src = './tilesimulator/IB000076_01_inv.png';
 
 let bgexist = [false, false, false]
 
